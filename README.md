@@ -20,12 +20,3 @@
    git push origin your-project-name
    
 6. **Create a Pull Request**: Go back to this original repo, click on the **Pull Requests** tab, and open a new PR from your branch.
-
-### Submission Deadline
-All pull requests must be submitted by [Deadline Date].
-
-Happy coding and good luck!
-```
-
-Using this approach, participants can easily manage their own code, and you can organize all the submissions within one repository. Let me know if you’d like to add any specific requirements!
-   
